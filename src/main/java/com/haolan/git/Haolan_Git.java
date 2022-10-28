@@ -8,5 +8,7 @@ public class Haolan_Git {
         System.out.println("hot-fix-repaircoding-work");
 
         System.out.println("冲突合并，这是master的commit");
+
+        System.out.println("merge-conflict-test        hot-fix-branch");
     }
 }
