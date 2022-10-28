@@ -12,5 +12,9 @@ public class Haolan_Git {
         System.out.println("merge-conflict-test        hot-fix-branch");
 
         System.out.println("我要把本地库推送到远程库啦~~~");
+        
+        
+    
+        System.out.println("我要把远程库拉取到本地库啦~~~");
     }
 }
