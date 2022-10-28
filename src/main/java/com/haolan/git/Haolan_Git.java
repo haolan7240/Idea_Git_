@@ -10,5 +10,7 @@ public class Haolan_Git {
         System.out.println("冲突合并，这是master的commit");
 
         System.out.println("merge-conflict-test        hot-fix-branch");
+
+        System.out.println("我要把本地库推送到远程库啦~~~");
     }
 }
