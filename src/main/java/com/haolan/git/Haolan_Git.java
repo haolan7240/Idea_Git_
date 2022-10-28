@@ -6,5 +6,7 @@ public class Haolan_Git {
         System.out.println("haha");
         System.out.println("lalalala");
         System.out.println("hot-fix-repaircoding-work");
+
+        System.out.println("merge-conflict-test        hot-fix-branch");
     }
 }
